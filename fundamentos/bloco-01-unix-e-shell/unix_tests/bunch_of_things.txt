@@ -1,8 +1,4 @@
-O brasil é maravilhoso
 A europa é espetacular
-Minas Gerais é surreal
-Brasil
-Portugal
 Afghanistan
 Albania
 Algeria
@@ -26,6 +22,7 @@ Bhutan
 Bolivia
 Bosnia Herzegovina
 Botswana
+Brasil
 Brazil
 Brunei
 Bulgaria
@@ -118,6 +115,7 @@ Mauritania
 Mauritius
 Mexico
 Micronesia
+Minas Gerais é surreal
 Moldova
 Monaco
 Mongolia
@@ -134,6 +132,7 @@ Nicaragua
 Niger
 Nigeria
 Norway
+O brasil é maravilhoso
 Oman
 Pakistan
 Palau
@@ -144,12 +143,11 @@ Peru
 Philippines
 Poland
 Portugal
+Portugal
 Qatar
 Romania
 Russian Federation
 Rwanda
-St Kitts & Nevis
-St Lucia
 Saint Vincent & the Grenadines
 Samoa
 San Marino
@@ -168,6 +166,8 @@ South Africa
 South Sudan
 Spain
 Sri Lanka
+St Kitts & Nevis
+St Lucia
 Sudan
 Suriname
 Swaziland
