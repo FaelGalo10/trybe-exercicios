@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8">
-    <title>HTML</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <style>
-/* 
+
         h1 {
             font-size: 65px;
             color: orange;
@@ -15,7 +8,7 @@
         /* .lista1 {
             background-color: green;
         }
- 
+ */
         p, ul {
             background-color: darkgreen;
         }
@@ -39,17 +32,4 @@
 
         .brownClass {
             color: brown;
-        } */
-
-    </style>
-  </head>
-  <body>
-    <h1>Exercícios 3.2</h1>
-    <p>Qual é a sua cor favorita?</p>
-    <ul class="lista1">
-      <li class="yellowClass">Amarelo</li>
-      <li class="redClass">Vermelho</li>
-      <li class="brownClass">Marrom</li>
-    </ul>
-  </body>
-</html>
+        }
