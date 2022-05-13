@@ -1,0 +1,35 @@
+
+        h1 {
+            font-size: 65px;
+            color: orange;
+            font-family: sans-serif;
+        }
+
+        /* .lista1 {
+            background-color: green;
+        }
+ */
+        p, ul {
+            background-color: darkgreen;
+        }
+
+        p {
+            font-weight: 600px;
+            font-size: 3em;
+        }
+
+        body {
+            font-size: 16px;
+        }
+
+        .yellowClass {
+            color: yellow;
+        }
+
+        .redClass {
+            color: red;
+        }
+
+        .brownClass {
+            color: brown;
+        }
