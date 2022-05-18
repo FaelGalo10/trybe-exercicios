@@ -100,3 +100,4 @@ for (let sum of arrOfNumbers) {
 for (let letter of names) {
   console.log(letter);
 } */
+

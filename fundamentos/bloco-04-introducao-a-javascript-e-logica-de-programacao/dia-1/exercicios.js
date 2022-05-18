@@ -154,7 +154,7 @@ let aliquotaIR;
 const parcelaFies = 307.67;
 let aliquotaTrybe
 
-const salarioBruto = 2900.00.toFixed(2);
+const salarioBruto = 3500.00.toFixed(2);
 
 if (salarioBruto >= 3000.00) {
   aliquotaTrybe = (salarioBruto * 0.17);
